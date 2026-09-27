@@ -26,8 +26,8 @@ workflow {
         record(firstName: 'Dev',   lastName: 'Patel', location: record(city: 'Mumbai', continent: 'Asia')),
         record(firstName: 'Emi',   lastName: 'Tanaka', location: record(city: 'Tokyo', continent: 'Asia')),
         record(firstName: 'Femi',  lastName: 'Adeyemi', location: record(city: 'Lagos', continent: 'Africa')),
-        // record(firstName: 'Greta', lastName: 'Larsen', location: record(city: 'Oslo', continent: 'Europe')),
-        // record(firstName: 'Amina', lastName: 'Okafor', location: record(city: 'Nairobi', continent: 'Africa')),
+        record(firstName: 'Greta', lastName: 'Larsen', location: record(city: 'Oslo', continent: 'Europe')),
+        record(firstName: 'Amina', lastName: 'Okafor', location: record(city: 'Nairobi', continent: 'Africa')),
         record(firstName: 'Tarik', lastName: 'Benali', location: record(city: 'Casablanca', continent: 'Africa'))
     )
 
